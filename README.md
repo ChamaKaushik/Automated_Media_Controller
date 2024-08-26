@@ -16,9 +16,12 @@ The Automated Media Controller is a Python-based project that enables users to c
 * 5 Fingers: Pause/Unpause
 
 ## Libraries Used
-* OpenCV: Used to capture video frames from the webcam.
-* MediaPipe: Utilized for detecting hand landmarks and tracking finger movements.
-* PyAutoGUI: Handles the execution of commands, such as controlling the media player based on detected gestures.
+* OpenCV:
+  Used to capture video frames from the webcam.
+* MediaPipe:
+  Utilized for detecting hand landmarks and tracking finger movements.
+* PyAutoGUI:
+   Handles the execution of commands, such as controlling the media player based on detected gestures.
 
 ## How It Works
 * Frame Capture: OpenCV reads frames from the webcam to capture the hand in real-time.

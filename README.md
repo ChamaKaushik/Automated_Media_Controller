@@ -9,11 +9,11 @@ The Automated Media Controller is a Python-based project that enables users to c
 
 ## Features
 ### Gesture Controls:
-    * Finger: Forward
-    * Fingers: Backward
-    * Fingers: Volume Up
-    * Fingers: Volume Down
-    * Fingers: Pause/Unpause
+* 1 Finger: Forward
+* 2 Fingers: Backward
+* 3 Fingers: Volume Up
+* 4 Fingers: Volume Down
+* 5 Fingers: Pause/Unpause
 
 ## Libraries Used
 * OpenCV: Used to capture video frames from the webcam.
